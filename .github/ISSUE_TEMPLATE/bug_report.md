@@ -7,22 +7,22 @@ assignees: ''
 
 ---
 
-### Subject of the issue
+Subject of the issue
 -------------------------------------------
 Describe your issue here.
 
-### Expected behavior
+Expected behavior
 -------------------------------------------
 Tell us what should happen.
 
-### Actual behavior
+Actual behavior
 -------------------------------------------
 Tell us what happens instead.
 
-### Steps to reproduce
+Steps to reproduce
 -------------------------------------------
 Tell us step by step how to reproduce this issue.
 
-### Any relevant logs, error output, etc?
+Any relevant logs, error output, etc?
 -------------------------------------------
 If its long, please link to a relevant public [GitHub Gist](https://gist.github.com/)
